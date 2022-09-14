@@ -4,4 +4,3 @@
 
 Sou um desenvolvedor web e músico também! Gosto muito de games e de aprender coisas novas.
 
-<img src = "react.png" width = "30px">
