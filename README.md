@@ -4,3 +4,4 @@
 
 Sou um desenvolvedor web e músico também! Gosto muito de games e de aprender coisas novas.
 
+<img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
