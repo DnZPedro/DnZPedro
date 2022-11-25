@@ -8,7 +8,7 @@
   <p> > Tenho 19 anos</p>
   <p> > Estudo Sistemas de Informação</p>
   <p> > Gosto de games, música e tecnologia</p>
-  <p> > Atualmente buscando um estágio ou trabalho na área</p>
+  <p> > Atualmente sou estagiário da Tribo Ti Negócios na Empresa Algar Telecom!</p>
 </div>
 
 
